@@ -13,7 +13,7 @@ body{
 }
 
 .big-icon{
-    font-size: 60px;
+    font-size: 50px;
 }
 
 header{
@@ -74,7 +74,7 @@ header{
 
 .toolbar{
     display: flex;
-    height: 130px;
+    height: 137px;
     background-color: #222222;
     justify-content: space-between;
     color: white;
@@ -82,7 +82,7 @@ header{
 }
 
 .fas{
-    padding: 0 10px;
+    padding: 0 20px;
 }
 
 .fas:hover{
@@ -93,7 +93,7 @@ header{
     color: red;
     height: 100%;
     background-color: #4A4A4A;
-    line-height: 130px;
+    line-height: 137px;
     padding: 0 45px;
 }
 
