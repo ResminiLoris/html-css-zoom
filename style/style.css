@@ -87,6 +87,7 @@ header{
 
 .fas:hover{
     color: #4BC800;
+    cursor: pointer;
 }
 
 .dx{
@@ -95,5 +96,9 @@ header{
     background-color: #4A4A4A;
     line-height: 137px;
     padding: 0 45px;
+    cursor: pointer;
 }
 
+.dx:hover{
+    filter: brightness(1.1);
+}
